@@ -1,0 +1,11 @@
+[ethernet_b827eb286dd3_cable]
+Name=Wired
+AutoConnect=true
+Modified=1970-01-01T00:00:23.034072Z
+IPv4.method=manual
+IPv6.method=off
+IPv6.privacy=disabled
+IPv4.netmask_prefixlen=24
+Nameservers=8.8.8.8;8.8.4.4;
+IPv4.local_address=192.168.
+IPv4.gateway=192.168.
