@@ -1,0 +1,38 @@
+<advancedsettings>
+    <services>
+            <airplay>true</airplay>
+            <airplaypassword>puzzle</airplaypassword>
+            <devicename>TucsonAir</devicename>
+            <esallinterfaces>true</esallinterfaces>
+            <escontinuousdelay>25</escontinuousdelay>
+            <esenabled>true</esenabled>
+            <esinitialdelay>750</esinitialdelay>
+            <esmaxclients>20</esmaxclients>
+            <esport>9777</esport>
+            <esportrange>10</esportrange>
+            <upnpannounce>true</upnpannounce>
+            <upnprenderer>false</upnprenderer>
+            <upnpserver>false</upnpserver>
+            <useairplaypassword>true</useairplaypassword>
+            <webserver>true</webserver>
+            <webserverpassword>puzzle</webserverpassword>
+            <webserverport>80</webserverport>
+            <webserverusername>view</webserverusername>
+            <webskin>webinterface.default</webskin>
+            <zeroconf>true</zeroconf>
+        </services>
+
+        <screensaver>
+            <mode></mode>
+            <preview/>
+            <settings/>
+            <time>3</time>
+            <usedimonpause>true</usedimonpause>
+            <usemusicvisinstead>true</usemusicvisinstead>
+        </screensaver>
+    <slideshow>
+        <displayeffects>true</displayeffects>
+        <shuffle>false</shuffle>
+        <staytime>20000</staytime>
+    </slideshow>
+</advancedsettings>
