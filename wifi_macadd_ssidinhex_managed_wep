@@ -1,0 +1,15 @@
+[wifi_00212f30f7f8_4741547563736f6e_managed_wep]
+Name=Wifi
+SSID=4741547563736f6e
+Frequency=2437
+Favorite=true
+AutoConnect=true
+Modified=2013-10-04T20:36:43.505939Z
+Passphrase=newpuzzle
+IPv4.method=manual
+IPv6.method=off
+IPv6.privacy=disabled
+IPv4.netmask_prefixlen=24
+Nameservers=8.8.8.8;8.8.4.4;
+IPv4.local_address=192.168.8.27
+IPv4.gateway=192.168.8.254
