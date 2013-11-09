@@ -13,7 +13,7 @@ Version 0.2 release
 
 - Moved autoexec and video uploading code from main script to text document as this is a niche feature.
 
-- Cleaned up the way variables were handled.
+- Cleaned up how variables are handled.
 
 ===================
 
