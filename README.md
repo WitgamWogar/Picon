@@ -14,6 +14,7 @@ Version 0.2 release
 - Moved autoexec and video uploading code from main script to text document as this is a niche feature.
 
 - Cleaned up the way variables were handled.
+
 ===================
 
 Version 0.3 planned features:
@@ -21,5 +22,12 @@ Version 0.3 planned features:
 - Validation on all inputs
 - Customize the advancedsettings.xml file from the program itself, enabling alteration of things like screensaver, airplay, passwords, webservers, zeroconf, staytime ext...
 
+
+==================
+
+Version 0.4 planned features:
+- GUI
+- Web GUI
+- .exe version
 
 
