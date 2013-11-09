@@ -1,8 +1,8 @@
 <advancedsettings>
     <services>
             <airplay>true</airplay>
-            <airplaypassword>puzzle</airplaypassword>
-            <devicename>TucsonAir</devicename>
+            <airplaypassword></airplaypassword>
+            <devicename></devicename>
             <esallinterfaces>true</esallinterfaces>
             <escontinuousdelay>25</escontinuousdelay>
             <esenabled>true</esenabled>
@@ -15,7 +15,7 @@
             <upnpserver>false</upnpserver>
             <useairplaypassword>true</useairplaypassword>
             <webserver>true</webserver>
-            <webserverpassword>puzzle</webserverpassword>
+            <webserverpassword></webserverpassword>
             <webserverport>80</webserverport>
             <webserverusername>view</webserverusername>
             <webskin>webinterface.default</webskin>
